@@ -33,7 +33,8 @@ print("Word Count in File=",count)
 
 ```
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/120232371/215278499-b6c7fd01-c91f-452a-b809-6e271dfa8f82.png)
+![image](https://user-images.githubusercontent.com/120232371/215278537-1686c384-b143-4c34-b859-c69b4fb1a187.png)
+
 
 
 
